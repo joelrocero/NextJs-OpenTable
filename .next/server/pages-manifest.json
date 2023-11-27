@@ -1,6 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/api/restaurant/[slug]/availability": "pages/api/restaurant/[slug]/availability.js"
-}
